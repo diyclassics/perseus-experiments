@@ -12,6 +12,9 @@ lxml = "*"
 tornado = "==5.1.1"
 tqdm = "*"
 pyuca = "*"
+"beautifulsoup4" = "*"
+pandas = "*"
+natsort = "*"
 
 [requires]
 python_version = "3.7"
